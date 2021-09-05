@@ -3,7 +3,7 @@ services:
   wg-easy:
     environment:
       # ⚠️ Required:
-      # Change this to your host's public address
+      # Change this to your host's public address 
       - WG_HOST=vpn.nalimhahs.up.railway.app
 
       # Optional:
